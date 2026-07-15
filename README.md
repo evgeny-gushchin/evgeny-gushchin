@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Evgeny%20Gushchin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evgeny-gushchin-3b0a3913a/)
 <!--
 **evgeny-gushchin/evgeny-gushchin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
